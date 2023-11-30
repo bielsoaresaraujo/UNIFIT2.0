@@ -1,14 +1,17 @@
-/* styles.css */
 
-/* Estilos gerais */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
-
+header img{
+  width: 250px;
+  height: 250px;
+  border-radius: 100px;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
 header {
-  background-color: #333;
   color:rgb(255, 255, 9);;
   padding: 20px;
   text-align: center;
